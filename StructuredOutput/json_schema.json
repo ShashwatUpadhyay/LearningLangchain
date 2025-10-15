@@ -1,0 +1,10 @@
+{
+    "title":"",
+    "description":"",
+    "type": "",
+    "properties":{
+        "name": "String",
+        "age": "integer"
+    },
+    "required": true
+}
