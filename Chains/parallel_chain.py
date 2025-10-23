@@ -85,7 +85,7 @@ We can perform the different operations on relational database models as follows
 #LCEL
 # chain = prompt1 | model | parser | prompt2 | model | parser
 
-result = chain.invoke({'text':'Unimployment in India'})
+result = chain.invoke({'text':text})
 
 chain.get_graph().print_ascii()
 print(result)
